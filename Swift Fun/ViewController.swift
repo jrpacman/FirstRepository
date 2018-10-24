@@ -4,7 +4,7 @@
 //
 //  Created by David Zikovitz on 2018-10-21.
 //  Copyright © 2018 David Zikovitz. All rights reserved.
-//
+//  This is pretty neat.
 
 import UIKit
 
