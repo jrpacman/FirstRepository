@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
     var buttonCount = 0
     @IBOutlet weak var moLoser: UILabel!
+    @IBOutlet weak var TopText: UITextField!
+    @IBOutlet weak var BottomText: UITextField!
     
     @IBAction func buttonTapped(_ sender: Any) {
         
